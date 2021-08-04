@@ -1,0 +1,43 @@
+{
+  "name": "array-operations",
+  "version": "1.1.0",
+  "description": "This is JavaScript module for fastest array operations",
+  "main": "app.js",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chouguleds/array-operations.git"
+  },
+  "keywords": [
+    "array",
+    "fast array",
+    "set",
+    "hash",
+    "set operations",
+    "fastest array functions",
+    "operations",
+    "array difference",
+    "array unique",
+    "filter",
+    "manipulation",
+    "for each perform",
+    "fast array functions",
+    "array functions",
+    "array util",
+    "array flatten",
+    "flatten array"
+  ],
+  "author": "Deepak Chougule <chougule.ds@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chouguleds/array-operations/issues"
+  },
+  "homepage": "https://github.com/chouguleds/array-operations#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
